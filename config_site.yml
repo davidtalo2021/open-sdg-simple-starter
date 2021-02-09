@@ -197,5 +197,5 @@ breadcrumbs:
       path: /goals
 
 disclaimer:
-  phase:my phase
+  phase: my phase
   message: This is my message.
